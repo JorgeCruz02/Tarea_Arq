@@ -8,6 +8,14 @@ Cervantes Figueroa, Angélica
 
 Git es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software. Fue creado por Linus Torvalds en 2005 y se ha convertido en una herramienta fundamental para que los equipos de desarrollo gestionen el código fuente de sus proyectos de manera colaborativa y controlen las diferentes versiones de sus archivos.
 
+Las características principales de Git incluyen:
+1.Control de Versiones Distribuido.
+2.Historial de Cambios.
+3. Ramas (Branches). 
+4. Fusiones (Merges). 
+5. Etiquetas (Tags). 
+6. Comandos de Línea de Comandos y GUIs. 
 
 Referencias 
 Mijacobs. (2023, 27 julio). ¿Qué es Git? - Azure DevOps. Microsoft Learn. https://learn.microsoft.com/es-es/devops/develop/git/what-is-git. 
+Fernández, Y. (2019). Qué es GitHub y qué es lo que le ofrece a los desarrolladores. Xataka. https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores. 
